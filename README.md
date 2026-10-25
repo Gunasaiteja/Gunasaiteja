@@ -1,64 +1,117 @@
-<!-- ============ ANIMATED HEADER (waving banner with your name) ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=240&section=header&text=Guna%20Sai%20Teja%20K&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Engineering%20Student&descSize=20&descAlignY=60" width="100%" alt="Guna Sai Teja K" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=260&section=header&text=GUNA%20SAI%20TEJA%20K&fontSize=50&fontColor=00ff41&fontAlignY=38&animation=twinkling&desc=%3E%20J.A.R.V.I.S%20ONLINE&descSize=22&descColor=ffffff&descAlignY=60" width="100%" alt="Guna Sai Teja K" />
 
-<!-- ============ TYPING / SCROLLING TEXT EFFECT ============ -->
 <a href="https://github.com/Gunasaiteja">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&height=60&lines=Hi,+I'm+Guna+Sai+Teja+K;4th+Year+B.Tech+CSE+Student;Aspiring+Software+Engineer;Java+%7C+C%2B%2B+%7C+Problem+Solving;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=800&height=50&lines=%3E+Initializing+J.A.R.V.I.S...;%3E+Loading+modules%3A+Java+%7C+C%2B%2B+%7C+Python+%7C+SQL;%3E+Access+granted.+Welcome%2C+Guna+Sai+Teja+K;%3E+Role%3A+Aspiring+Software+Engineer;%3E+Status%3A+Learning.+Building.+Hacking+DSA.;%3E+System+ready_" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Gunasaiteja&label=SYSTEM+ACCESS+COUNT&color=00ff41&style=for-the-badge&labelColor=000000" alt="Profile views" />
+
+</div>
+
+---
+
+## `> whoami`
+
+```bash
+guna@jarvis:~$ cat profile.txt
+
+NAME        : Guna Sai Teja K
+ROLE        : Aspiring Software Engineer
+EDUCATION   : B.Tech CSE (4th Year) - Aditya College of Engineering and Technology
+FOCUS       : Java, C++, Data Structures & Algorithms
+INTERESTS   : Software Development, Full Stack Development, Problem Solving
+STATUS      : Open to opportunities
+MOTTO       : Always learning, always building
+```
+
+---
+
+## `> ./current_missions.sh`
+
+```bash
+[✔] B.Tech Computer Science and Engineering ... 4th Year
+[►] Mastering Java ............................. IN PROGRESS
+[►] Practicing C++ ............................. IN PROGRESS
+[►] Improving DSA & Problem Solving ............ IN PROGRESS
+[►] Exploring Full Stack Development ........... IN PROGRESS
+[►] Building with Git & GitHub ................. ACTIVE
+```
+
+---
+
+## `> ls ./skills`
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff41)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00ff41)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00ff41)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)
+
+</div>
+
+---
+
+## `> ./system_stats --verbose`
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Gunasaiteja&show_icons=true&hide_border=false&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&bg_color=000000&border_color=00FF41" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gunasaiteja&layout=compact&hide_border=false&title_color=00FF41&text_color=C9D1D9&bg_color=000000&border_color=00FF41" height="170" alt="Top languages" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Gunasaiteja&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://streak-stats.demolab.com/?user=Gunasaiteja&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&border=00FF41" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gunasaiteja&theme=matrix&no-frame=true&row=7&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I am a **4th-year B.Tech Computer Science and Engineering student** at **Aditya College of Engineering and Technology**, passionate about **software development, programming, and problem-solving**.
-
-I have exposure to **C, C++, Java, Python, SQL, HTML, JavaScript, and Git & GitHub**, and I am currently focusing on **Java and C++** to strengthen my fundamentals and DSA skills.
-
-- 🎓 B.Tech CSE, 4th Year
-- ☕ Currently focusing on **Java**
-- ⚡ Learning and practicing **C++**
-- 🧠 Improving Problem-Solving and DSA skills
-- 🌐 Interested in Full Stack Development
-- 🔧 Working with Git & GitHub
-- 🌱 Always willing to learn new technologies
-
----
-
-## 🌐 Connect With Me
+## `> tail -f activity.log`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/guna-sai-teja-k-9776b8282/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:gunaprofessional230104@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://x.com/gunasaiteja"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-<a href="https://instagram.com/_gunasaiteja__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://discord.gg/QCr5KttGM"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://facebook.com/gunasaiteja"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://pinterest.com/gunasaiteja"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunasaiteja&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity graph" />
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## `> ./connect --all`
 
 <div align="center">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https:
+<a href="https://www.linkedin.com/in/guna-sai-teja-k-9776b8282/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn" /></a>
+<a href="mailto:gunaprofessional230104@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Email" /></a>
+<a href="https://x.com/gunasaiteja"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00ff41" alt="X" /></a>
+<a href="https://instagram.com/_gunasaiteja__"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41" alt="Instagram" /></a>
+<a href="https://discord.gg/QCr5KttGM"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00ff41" alt="Discord" /></a>
+<a href="https://facebook.com/gunasaiteja"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00ff41" alt="Facebook" /></a>
+<a href="https://pinterest.com/gunasaiteja"><img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=00ff41" alt="Pinterest" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&width=600&height=30&lines=%3E+Connection+closed.+Thanks+for+visiting.;%3E+J.A.R.V.I.S+standing+by..." alt="footer typing" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=120&section=footer" width="100%" alt="footer" />
